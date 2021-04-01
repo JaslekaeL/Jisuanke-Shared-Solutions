@@ -1,4 +1,4 @@
-//T1051：输入一组数据,计算其均值。
+//T1052：输入一组数据,计算其均值。
 #include<iostream>
 #include<cstdio>
 #include<cmath>
